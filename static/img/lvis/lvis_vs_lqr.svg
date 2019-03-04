@@ -1,0 +1,990 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="258.69946mm"
+   height="127.50958mm"
+   viewBox="0 0 916.65165 451.80561"
+   id="svg7034"
+   version="1.1"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="lvis_vs_lqr.svg">
+  <defs
+     id="defs7036">
+    <clipPath
+       id="clip3100">
+      <rect
+         id="rect7587"
+         height="400"
+         width="600"
+         y="0"
+         x="0" />
+    </clipPath>
+    <clipPath
+       id="clip1100">
+      <rect
+         id="rect7872"
+         height="400"
+         width="600"
+         y="0"
+         x="0" />
+    </clipPath>
+    <clipPath
+       id="clip2100">
+      <rect
+         id="rect8157"
+         height="400"
+         width="600"
+         y="0"
+         x="0" />
+    </clipPath>
+    <clipPath
+       id="clip3700-9">
+      <rect
+         id="rect5636-1"
+         height="400"
+         width="600"
+         y="0"
+         x="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath8532">
+      <rect
+         id="rect8534"
+         height="400"
+         width="600"
+         y="0"
+         x="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath8536">
+      <rect
+         id="rect8538"
+         height="400"
+         width="600"
+         y="0"
+         x="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath8540">
+      <rect
+         id="rect8542"
+         height="400"
+         width="600"
+         y="0"
+         x="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath8544">
+      <rect
+         id="rect8546"
+         height="400"
+         width="600"
+         y="0"
+         x="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath8548">
+      <rect
+         id="rect8550"
+         height="400"
+         width="600"
+         y="0"
+         x="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath8552">
+      <rect
+         id="rect8554"
+         height="400"
+         width="600"
+         y="0"
+         x="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath8556">
+      <rect
+         id="rect8558"
+         height="400"
+         width="600"
+         y="0"
+         x="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath8560">
+      <rect
+         id="rect8562"
+         height="400"
+         width="600"
+         y="0"
+         x="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath8564">
+      <rect
+         id="rect8566"
+         height="400"
+         width="600"
+         y="0"
+         x="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath8568">
+      <rect
+         id="rect8570"
+         height="400"
+         width="600"
+         y="0"
+         x="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath8572">
+      <rect
+         id="rect8574"
+         height="400"
+         width="600"
+         y="0"
+         x="0" />
+    </clipPath>
+    <clipPath
+       id="clip3700-8">
+      <rect
+         id="rect5636-9"
+         height="400"
+         width="600"
+         y="0"
+         x="0" />
+    </clipPath>
+    <clipPath
+       id="clip2100-3">
+      <rect
+         id="rect8831"
+         height="400"
+         width="600"
+         y="0"
+         x="0" />
+    </clipPath>
+    <clipPath
+       id="clip2100-3-0">
+      <rect
+         id="rect8831-4"
+         height="400"
+         width="600"
+         y="0"
+         x="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath9140">
+      <rect
+         id="rect9142"
+         height="400"
+         width="600"
+         y="0"
+         x="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath9144">
+      <rect
+         id="rect9146"
+         height="400"
+         width="600"
+         y="0"
+         x="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath9148">
+      <rect
+         id="rect9150"
+         height="400"
+         width="600"
+         y="0"
+         x="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath9152">
+      <rect
+         id="rect9154"
+         height="400"
+         width="600"
+         y="0"
+         x="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath9156">
+      <rect
+         id="rect9158"
+         height="400"
+         width="600"
+         y="0"
+         x="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath9160">
+      <rect
+         id="rect9162"
+         height="400"
+         width="600"
+         y="0"
+         x="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath9164">
+      <rect
+         id="rect9166"
+         height="400"
+         width="600"
+         y="0"
+         x="0" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="835.9312"
+     inkscape:cy="104.98039"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1686"
+     inkscape:window-height="971"
+     inkscape:window-x="362"
+     inkscape:window-y="151"
+     inkscape:window-maximized="0"
+     fit-margin-top="5"
+     fit-margin-left="5"
+     fit-margin-right="5"
+     fit-margin-bottom="5" />
+  <metadata
+     id="metadata7039">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(346.62305,-149.0881)">
+    <g
+       id="g7780"
+       transform="translate(-404.40168,178.07649)">
+      <polygon
+         id="polygon7596"
+         points="122.389,31.4961 122.389,360.121 451.014,360.121 451.014,31.4961 "
+         clip-path="url(#clip3100)"
+         style="fill:#ffffff;fill-opacity:1" />
+      <polyline
+         id="polyline7603"
+         points="   133.343,360.121 133.343,31.4961    "
+         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-opacity:0.1"
+         clip-path="url(#clip3102)" />
+      <polyline
+         id="polyline7605"
+         points="   184.463,360.121 184.463,31.4961    "
+         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-opacity:0.1"
+         clip-path="url(#clip3102)" />
+      <polyline
+         id="polyline7607"
+         points="   235.582,360.121 235.582,31.4961    "
+         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-opacity:0.1"
+         clip-path="url(#clip3102)" />
+      <polyline
+         id="polyline7609"
+         points="   286.702,360.121 286.702,31.4961    "
+         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-opacity:0.1"
+         clip-path="url(#clip3102)" />
+      <polyline
+         id="polyline7611"
+         points="   337.821,360.121 337.821,31.4961    "
+         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-opacity:0.1"
+         clip-path="url(#clip3102)" />
+      <polyline
+         id="polyline7613"
+         points="   388.94,360.121 388.94,31.4961    "
+         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-opacity:0.1"
+         clip-path="url(#clip3102)" />
+      <polyline
+         id="polyline7615"
+         points="   440.06,360.121 440.06,31.4961    "
+         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-opacity:0.1"
+         clip-path="url(#clip3102)" />
+      <polyline
+         id="polyline7617"
+         points="   122.389,342.255 451.014,342.255    "
+         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-opacity:0.1"
+         clip-path="url(#clip3102)" />
+      <polyline
+         id="polyline7619"
+         points="   122.389,293.439 451.014,293.439    "
+         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-opacity:0.1"
+         clip-path="url(#clip3102)" />
+      <polyline
+         id="polyline7621"
+         points="   122.389,244.624 451.014,244.624    "
+         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-opacity:0.1"
+         clip-path="url(#clip3102)" />
+      <polyline
+         id="polyline7623"
+         points="   122.389,195.808 451.014,195.808    "
+         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-opacity:0.1"
+         clip-path="url(#clip3102)" />
+      <polyline
+         id="polyline7625"
+         points="   122.389,146.993 451.014,146.993    "
+         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-opacity:0.1"
+         clip-path="url(#clip3102)" />
+      <polyline
+         id="polyline7627"
+         points="   122.389,98.1775 451.014,98.1775    "
+         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-opacity:0.1"
+         clip-path="url(#clip3102)" />
+      <polyline
+         id="polyline7629"
+         points="   122.389,49.3621 451.014,49.3621    "
+         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-opacity:0.1"
+         clip-path="url(#clip3102)" />
+      <polyline
+         id="polyline7631"
+         points="   122.389,360.121 451.014,360.121    "
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:1"
+         clip-path="url(#clip3100)" />
+      <polyline
+         id="polyline7633"
+         points="   122.389,360.121 122.389,31.4961    "
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:1"
+         clip-path="url(#clip3100)" />
+      <polyline
+         id="polyline7635"
+         points="   133.343,360.121 133.343,355.191    "
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:1"
+         clip-path="url(#clip3100)" />
+      <polyline
+         id="polyline7637"
+         points="   184.463,360.121 184.463,355.191    "
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:1"
+         clip-path="url(#clip3100)" />
+      <polyline
+         id="polyline7639"
+         points="   235.582,360.121 235.582,355.191    "
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:1"
+         clip-path="url(#clip3100)" />
+      <polyline
+         id="polyline7641"
+         points="   286.702,360.121 286.702,355.191    "
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:1"
+         clip-path="url(#clip3100)" />
+      <polyline
+         id="polyline7643"
+         points="   337.821,360.121 337.821,355.191    "
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:1"
+         clip-path="url(#clip3100)" />
+      <polyline
+         id="polyline7645"
+         points="   388.94,360.121 388.94,355.191    "
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:1"
+         clip-path="url(#clip3100)" />
+      <polyline
+         id="polyline7647"
+         points="   440.06,360.121 440.06,355.191    "
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:1"
+         clip-path="url(#clip3100)" />
+      <polyline
+         id="polyline7649"
+         points="   122.389,342.255 127.319,342.255    "
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:1"
+         clip-path="url(#clip3100)" />
+      <polyline
+         id="polyline7651"
+         points="   122.389,293.439 127.319,293.439    "
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:1"
+         clip-path="url(#clip3100)" />
+      <polyline
+         id="polyline7653"
+         points="   122.389,244.624 127.319,244.624    "
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:1"
+         clip-path="url(#clip3100)" />
+      <polyline
+         id="polyline7655"
+         points="   122.389,195.808 127.319,195.808    "
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:1"
+         clip-path="url(#clip3100)" />
+      <polyline
+         id="polyline7657"
+         points="   122.389,146.993 127.319,146.993    "
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:1"
+         clip-path="url(#clip3100)" />
+      <polyline
+         id="polyline7659"
+         points="   122.389,98.1775 127.319,98.1775    "
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:1"
+         clip-path="url(#clip3100)" />
+      <polyline
+         id="polyline7661"
+         points="   122.389,49.3621 127.319,49.3621    "
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:1"
+         clip-path="url(#clip3100)" />
+      <g
+         id="g7663"
+         clip-path="url(#clip3100)">
+        <text
+           id="text7665"
+           y="373.92099"
+           x="133.343"
+           style="font-size:12px;line-height:0%;font-family:Arial, 'Helvetica Neue', Helvetica, sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1">-1.5</text>
+      </g>
+      <g
+         id="g7667"
+         clip-path="url(#clip3100)">
+        <text
+           id="text7669"
+           y="373.92099"
+           x="184.463"
+           style="font-size:12px;line-height:0%;font-family:Arial, 'Helvetica Neue', Helvetica, sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1">-1.0</text>
+      </g>
+      <g
+         id="g7671"
+         clip-path="url(#clip3100)">
+        <text
+           id="text7673"
+           y="373.92099"
+           x="235.582"
+           style="font-size:12px;line-height:0%;font-family:Arial, 'Helvetica Neue', Helvetica, sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1">-0.5</text>
+      </g>
+      <g
+         id="g7675"
+         clip-path="url(#clip3100)">
+        <text
+           id="text7677"
+           y="373.92099"
+           x="286.702"
+           style="font-size:12px;line-height:0%;font-family:Arial, 'Helvetica Neue', Helvetica, sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1">0.0</text>
+      </g>
+      <g
+         id="g7679"
+         clip-path="url(#clip3100)">
+        <text
+           id="text7681"
+           y="373.92099"
+           x="337.82101"
+           style="font-size:12px;line-height:0%;font-family:Arial, 'Helvetica Neue', Helvetica, sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1">0.5</text>
+      </g>
+      <g
+         id="g7683"
+         clip-path="url(#clip3100)">
+        <text
+           id="text7685"
+           y="373.92099"
+           x="388.94"
+           style="font-size:12px;line-height:0%;font-family:Arial, 'Helvetica Neue', Helvetica, sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1">1.0</text>
+      </g>
+      <g
+         id="g7687"
+         clip-path="url(#clip3100)">
+        <text
+           id="text7689"
+           y="373.92099"
+           x="440.06"
+           style="font-size:12px;line-height:0%;font-family:Arial, 'Helvetica Neue', Helvetica, sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1">1.5</text>
+      </g>
+      <g
+         id="g7691"
+         clip-path="url(#clip3100)">
+        <text
+           id="text7693"
+           y="346.755"
+           x="116.389"
+           style="font-size:12px;line-height:0%;font-family:Arial, 'Helvetica Neue', Helvetica, sans-serif;text-anchor:end;fill:#000000;fill-opacity:1">-3</text>
+      </g>
+      <g
+         id="g7695"
+         clip-path="url(#clip3100)">
+        <text
+           id="text7697"
+           y="297.939"
+           x="116.389"
+           style="font-size:12px;line-height:0%;font-family:Arial, 'Helvetica Neue', Helvetica, sans-serif;text-anchor:end;fill:#000000;fill-opacity:1">-2</text>
+      </g>
+      <g
+         id="g7699"
+         clip-path="url(#clip3100)">
+        <text
+           id="text7701"
+           y="249.12399"
+           x="116.389"
+           style="font-size:12px;line-height:0%;font-family:Arial, 'Helvetica Neue', Helvetica, sans-serif;text-anchor:end;fill:#000000;fill-opacity:1">-1</text>
+      </g>
+      <g
+         id="g7703"
+         clip-path="url(#clip3100)">
+        <text
+           id="text7705"
+           y="200.308"
+           x="116.389"
+           style="font-size:12px;line-height:0%;font-family:Arial, 'Helvetica Neue', Helvetica, sans-serif;text-anchor:end;fill:#000000;fill-opacity:1">0</text>
+      </g>
+      <g
+         id="g7707"
+         clip-path="url(#clip3100)">
+        <text
+           id="text7709"
+           y="151.493"
+           x="116.389"
+           style="font-size:12px;line-height:0%;font-family:Arial, 'Helvetica Neue', Helvetica, sans-serif;text-anchor:end;fill:#000000;fill-opacity:1">1</text>
+      </g>
+      <g
+         id="g7711"
+         clip-path="url(#clip3100)">
+        <text
+           id="text7713"
+           y="102.678"
+           x="116.389"
+           style="font-size:12px;line-height:0%;font-family:Arial, 'Helvetica Neue', Helvetica, sans-serif;text-anchor:end;fill:#000000;fill-opacity:1">2</text>
+      </g>
+      <g
+         id="g7715"
+         clip-path="url(#clip3100)">
+        <text
+           id="text7717"
+           y="53.862099"
+           x="116.389"
+           style="font-size:12px;line-height:0%;font-family:Arial, 'Helvetica Neue', Helvetica, sans-serif;text-anchor:end;fill:#000000;fill-opacity:1">3</text>
+      </g>
+      <g
+         id="g7731"
+         clip-path="url(#clip3102)">
+        <image
+           id="image7733"
+           transform="translate(122,31)"
+           xlink:href="data:image/png;base64, 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 zAURAAAAAElFTkSuQmCC "
+           height="329"
+           width="329" />
+      </g>
+    </g>
+    <g
+       id="g8065"
+       transform="translate(-10.024621,178.07649)">
+      <polygon
+         id="polygon7881"
+         points="122.389,360.121 451.014,360.121 451.014,31.4961 122.389,31.4961 "
+         clip-path="url(#clip1100)"
+         style="fill:#ffffff;fill-opacity:1" />
+      <polyline
+         id="polyline7888"
+         points="   133.343,360.121 133.343,31.4961    "
+         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-opacity:0.1"
+         clip-path="url(#clip1102)" />
+      <polyline
+         id="polyline7890"
+         points="   184.463,360.121 184.463,31.4961    "
+         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-opacity:0.1"
+         clip-path="url(#clip1102)" />
+      <polyline
+         id="polyline7892"
+         points="   235.582,360.121 235.582,31.4961    "
+         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-opacity:0.1"
+         clip-path="url(#clip1102)" />
+      <polyline
+         id="polyline7894"
+         points="   286.702,360.121 286.702,31.4961    "
+         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-opacity:0.1"
+         clip-path="url(#clip1102)" />
+      <polyline
+         id="polyline7896"
+         points="   337.821,360.121 337.821,31.4961    "
+         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-opacity:0.1"
+         clip-path="url(#clip1102)" />
+      <polyline
+         id="polyline7898"
+         points="   388.94,360.121 388.94,31.4961    "
+         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-opacity:0.1"
+         clip-path="url(#clip1102)" />
+      <polyline
+         id="polyline7900"
+         points="   440.06,360.121 440.06,31.4961    "
+         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-opacity:0.1"
+         clip-path="url(#clip1102)" />
+      <polyline
+         id="polyline7902"
+         points="   122.389,342.255 451.014,342.255    "
+         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-opacity:0.1"
+         clip-path="url(#clip1102)" />
+      <polyline
+         id="polyline7904"
+         points="   122.389,293.439 451.014,293.439    "
+         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-opacity:0.1"
+         clip-path="url(#clip1102)" />
+      <polyline
+         id="polyline7906"
+         points="   122.389,244.624 451.014,244.624    "
+         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-opacity:0.1"
+         clip-path="url(#clip1102)" />
+      <polyline
+         id="polyline7908"
+         points="   122.389,195.808 451.014,195.808    "
+         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-opacity:0.1"
+         clip-path="url(#clip1102)" />
+      <polyline
+         id="polyline7910"
+         points="   122.389,146.993 451.014,146.993    "
+         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-opacity:0.1"
+         clip-path="url(#clip1102)" />
+      <polyline
+         id="polyline7912"
+         points="   122.389,98.1775 451.014,98.1775    "
+         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-opacity:0.1"
+         clip-path="url(#clip1102)" />
+      <polyline
+         id="polyline7914"
+         points="   122.389,49.3621 451.014,49.3621    "
+         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-opacity:0.1"
+         clip-path="url(#clip1102)" />
+      <polyline
+         id="polyline7916"
+         points="   122.389,360.121 451.014,360.121    "
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:1"
+         clip-path="url(#clip1100)" />
+      <polyline
+         id="polyline7918"
+         points="   122.389,360.121 122.389,31.4961    "
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:1"
+         clip-path="url(#clip1100)" />
+      <polyline
+         id="polyline7920"
+         points="   133.343,360.121 133.343,355.191    "
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:1"
+         clip-path="url(#clip1100)" />
+      <polyline
+         id="polyline7922"
+         points="   184.463,360.121 184.463,355.191    "
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:1"
+         clip-path="url(#clip1100)" />
+      <polyline
+         id="polyline7924"
+         points="   235.582,360.121 235.582,355.191    "
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:1"
+         clip-path="url(#clip1100)" />
+      <polyline
+         id="polyline7926"
+         points="   286.702,360.121 286.702,355.191    "
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:1"
+         clip-path="url(#clip1100)" />
+      <polyline
+         id="polyline7928"
+         points="   337.821,360.121 337.821,355.191    "
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:1"
+         clip-path="url(#clip1100)" />
+      <polyline
+         id="polyline7930"
+         points="   388.94,360.121 388.94,355.191    "
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:1"
+         clip-path="url(#clip1100)" />
+      <polyline
+         id="polyline7932"
+         points="   440.06,360.121 440.06,355.191    "
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:1"
+         clip-path="url(#clip1100)" />
+      <polyline
+         id="polyline7934"
+         points="   122.389,342.255 127.319,342.255    "
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:1"
+         clip-path="url(#clip1100)" />
+      <polyline
+         id="polyline7936"
+         points="   122.389,293.439 127.319,293.439    "
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:1"
+         clip-path="url(#clip1100)" />
+      <polyline
+         id="polyline7938"
+         points="   122.389,244.624 127.319,244.624    "
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:1"
+         clip-path="url(#clip1100)" />
+      <polyline
+         id="polyline7940"
+         points="   122.389,195.808 127.319,195.808    "
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:1"
+         clip-path="url(#clip1100)" />
+      <polyline
+         id="polyline7942"
+         points="   122.389,146.993 127.319,146.993    "
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:1"
+         clip-path="url(#clip1100)" />
+      <polyline
+         id="polyline7944"
+         points="   122.389,98.1775 127.319,98.1775    "
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:1"
+         clip-path="url(#clip1100)" />
+      <polyline
+         id="polyline7946"
+         points="   122.389,49.3621 127.319,49.3621    "
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:1"
+         clip-path="url(#clip1100)" />
+      <g
+         id="g7948"
+         clip-path="url(#clip1100)">
+        <text
+           id="text7950"
+           y="373.92099"
+           x="133.343"
+           style="font-size:12px;line-height:0%;font-family:Arial, 'Helvetica Neue', Helvetica, sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1">-1.5</text>
+      </g>
+      <g
+         id="g7952"
+         clip-path="url(#clip1100)">
+        <text
+           id="text7954"
+           y="373.92099"
+           x="184.463"
+           style="font-size:12px;line-height:0%;font-family:Arial, 'Helvetica Neue', Helvetica, sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1">-1.0</text>
+      </g>
+      <g
+         id="g7956"
+         clip-path="url(#clip1100)">
+        <text
+           id="text7958"
+           y="373.92099"
+           x="235.582"
+           style="font-size:12px;line-height:0%;font-family:Arial, 'Helvetica Neue', Helvetica, sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1">-0.5</text>
+      </g>
+      <g
+         id="g7960"
+         clip-path="url(#clip1100)">
+        <text
+           id="text7962"
+           y="373.92099"
+           x="286.702"
+           style="font-size:12px;line-height:0%;font-family:Arial, 'Helvetica Neue', Helvetica, sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1">0.0</text>
+      </g>
+      <g
+         id="g7964"
+         clip-path="url(#clip1100)">
+        <text
+           id="text7966"
+           y="373.92099"
+           x="337.82101"
+           style="font-size:12px;line-height:0%;font-family:Arial, 'Helvetica Neue', Helvetica, sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1">0.5</text>
+      </g>
+      <g
+         id="g7968"
+         clip-path="url(#clip1100)">
+        <text
+           id="text7970"
+           y="373.92099"
+           x="388.94"
+           style="font-size:12px;line-height:0%;font-family:Arial, 'Helvetica Neue', Helvetica, sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1">1.0</text>
+      </g>
+      <g
+         id="g7972"
+         clip-path="url(#clip1100)">
+        <text
+           id="text7974"
+           y="373.92099"
+           x="440.06"
+           style="font-size:12px;line-height:0%;font-family:Arial, 'Helvetica Neue', Helvetica, sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1">1.5</text>
+      </g>
+      <g
+         id="g7976"
+         clip-path="url(#clip1100)">
+        <text
+           id="text7978"
+           y="346.755"
+           x="116.389"
+           style="font-size:12px;line-height:0%;font-family:Arial, 'Helvetica Neue', Helvetica, sans-serif;text-anchor:end;fill:#000000;fill-opacity:1">-3</text>
+      </g>
+      <g
+         id="g7980"
+         clip-path="url(#clip1100)">
+        <text
+           id="text7982"
+           y="297.939"
+           x="116.389"
+           style="font-size:12px;line-height:0%;font-family:Arial, 'Helvetica Neue', Helvetica, sans-serif;text-anchor:end;fill:#000000;fill-opacity:1">-2</text>
+      </g>
+      <g
+         id="g7984"
+         clip-path="url(#clip1100)">
+        <text
+           id="text7986"
+           y="249.12399"
+           x="116.389"
+           style="font-size:12px;line-height:0%;font-family:Arial, 'Helvetica Neue', Helvetica, sans-serif;text-anchor:end;fill:#000000;fill-opacity:1">-1</text>
+      </g>
+      <g
+         id="g7988"
+         clip-path="url(#clip1100)">
+        <text
+           id="text7990"
+           y="200.308"
+           x="116.389"
+           style="font-size:12px;line-height:0%;font-family:Arial, 'Helvetica Neue', Helvetica, sans-serif;text-anchor:end;fill:#000000;fill-opacity:1">0</text>
+      </g>
+      <g
+         id="g7992"
+         clip-path="url(#clip1100)">
+        <text
+           id="text7994"
+           y="151.493"
+           x="116.389"
+           style="font-size:12px;line-height:0%;font-family:Arial, 'Helvetica Neue', Helvetica, sans-serif;text-anchor:end;fill:#000000;fill-opacity:1">1</text>
+      </g>
+      <g
+         id="g7996"
+         clip-path="url(#clip1100)">
+        <text
+           id="text7998"
+           y="102.678"
+           x="116.389"
+           style="font-size:12px;line-height:0%;font-family:Arial, 'Helvetica Neue', Helvetica, sans-serif;text-anchor:end;fill:#000000;fill-opacity:1">2</text>
+      </g>
+      <g
+         id="g8000"
+         clip-path="url(#clip1100)">
+        <text
+           id="text8002"
+           y="53.862099"
+           x="116.389"
+           style="font-size:12px;line-height:0%;font-family:Arial, 'Helvetica Neue', Helvetica, sans-serif;text-anchor:end;fill:#000000;fill-opacity:1">3</text>
+      </g>
+      <g
+         id="g8016"
+         clip-path="url(#clip1102)">
+        <image
+           id="image8018"
+           transform="translate(122,31)"
+           xlink:href="data:image/png;base64, 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 "
+           height="329"
+           width="329" />
+      </g>
+    </g>
+    <text
+       style="font-size:35px;line-height:0%;font-family:Arial, 'Helvetica Neue', Helvetica, sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1"
+       x="-125.94003"
+       y="190.70964"
+       id="text5754">
+      <tspan
+         id="tspan6496"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:FreeSerif;-inkscape-font-specification:FreeSerif">LVIS Controller</tspan>
+    </text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="177.6454"
+       y="191.71715"
+       id="text6851"><tspan
+         sodipodi:role="line"
+         id="tspan6853"
+         x="177.6454"
+         y="191.71715"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;line-height:1.25;font-family:FreeSerif;-inkscape-font-specification:FreeSerif">MPC + LQR</tspan></text>
+    <text
+       style="font-size:16px;line-height:0%;font-family:Arial, 'Helvetica Neue', Helvetica, sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1"
+       x="-116.04063"
+       y="577.72717"
+       id="text5758">
+      <tspan
+         id="tspan6494"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:FreeSerif;-inkscape-font-specification:FreeSerif">Linear velocity</tspan>
+    </text>
+    <text
+       id="text6490"
+       y="-311.83151"
+       x="-380.06128"
+       style="font-size:16px;line-height:0%;font-family:Arial, 'Helvetica Neue', Helvetica, sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1"
+       transform="rotate(-90)">
+      <tspan
+         id="tspan6492"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:FreeSerif;-inkscape-font-specification:FreeSerif">Rotational velocity</tspan>
+    </text>
+    <text
+       style="font-size:16px;line-height:0%;font-family:Arial, 'Helvetica Neue', Helvetica, sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1"
+       x="279.93918"
+       y="577.72717"
+       id="text8814">
+      <tspan
+         id="tspan8816"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:FreeSerif;-inkscape-font-specification:FreeSerif">Linear velocity</tspan>
+    </text>
+    <text
+       transform="rotate(-90)"
+       style="font-size:16px;line-height:0%;font-family:Arial, 'Helvetica Neue', Helvetica, sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1"
+       x="-380.06128"
+       y="86.168587"
+       id="text8818">
+      <tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:FreeSerif;-inkscape-font-specification:FreeSerif"
+         id="tspan8820">Rotational velocity</tspan>
+    </text>
+    <g
+       transform="translate(0.39806973,178.5465)"
+       id="g9111">
+      <g
+         clip-path="url(#clip2103)"
+         id="g8984">
+        <image
+           width="18"
+           height="329"
+           xlink:href="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAABIAAAFJCAYAAACW8H3XAAAB6UlEQVR4nO2Z0Q3CMAxE49Sw/0YM BjSM0H48oadTGOAUP9/ZSanXfKwB/CYhMsYYXQ9Gq+tJCUEn4hiN58EI1UExOgoSah1sjhElNG2M sNLGpHwUDBs6EQh7M7oU4gxZNtg6HwkNmcsIKw1MPxSRaEZYaRxsWUTI9MuGf7IhdYy6JvNeE8Lm nC0MLdV+zpC5sEs2/LG9ZgytD7bOkEUx0u1+5bXGBttoSFlpWNeEhgQfNbKZLYS9V/a1ELaydRFR wpa9IJO3CAg72JCy9JMPv9Qtkgxb921EeK3R+SjZkNifB75rTbIhN+xrodzQYltkw74hZHN2dmhl zuZgL4wRJ2R7ZYOMZD7qNXSwoRP1gg6VzYj59VoyRhzsEyqtF0QbEwINaSsNFDoZISHs0wYbZAR1 TWjIM9eQC1Laob0htCfkHSHIkNGhpYRsM5u8Q0JCe0JeC3Gwcw0Jwt6G/JsQtUWSDblX9h+FdKOW hE35yNY14StbxwhrP3iHtA1/oSF188g3RozryDZGhIy4e7ata8b027pmNKRuHSWnH6pNyAjzke8b m+8FaZyQjBDJSPZFi+uaD7Zu0woZ5W5a4f1Il7VkQ+pCa4RtK62/vtDqNu3XJiS8HwUzAkujYFMR +ehgvynYVGn9gbr2A0ALGOYjwdncAAAAAElFTkSuQmCC "
+           transform="translate(463,31)"
+           id="image8986" />
+      </g>
+      <text
+         id="text8990"
+         y="367.53299"
+         x="490.01401"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:0%;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-anchor:start;fill:#000000;fill-opacity:1">0</text>
+      <text
+         id="text8994"
+         y="312.763"
+         x="490.01401"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:0%;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-anchor:start;fill:#000000;fill-opacity:1">5000</text>
+      <text
+         id="text8998"
+         y="257.992"
+         x="490.01401"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:0%;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-anchor:start;fill:#000000;fill-opacity:1">10000</text>
+      <text
+         id="text9002"
+         y="203.22099"
+         x="490.01401"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:0%;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-anchor:start;fill:#000000;fill-opacity:1">15000</text>
+      <text
+         id="text9006"
+         y="148.45"
+         x="490.01401"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:0%;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-anchor:start;fill:#000000;fill-opacity:1">20000</text>
+      <text
+         id="text9010"
+         y="93.679604"
+         x="490.01401"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:0%;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-anchor:start;fill:#000000;fill-opacity:1">25000</text>
+      <text
+         id="text9014"
+         y="38.908901"
+         x="490.01401"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:0%;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-anchor:start;fill:#000000;fill-opacity:1">30000</text>
+      <polyline
+         clip-path="url(#clip2100-3-0)"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:1"
+         points="   481.014,360.121 481.014,360.121 487.014,360.121 481.014,360.121 481.014,305.35 487.014,305.35 481.014,305.35 481.014,250.579 487.014,250.579 481.014,250.579    481.014,195.808 487.014,195.808 481.014,195.808 481.014,141.038 487.014,141.038 481.014,141.038 481.014,86.2668 487.014,86.2668 481.014,86.2668 481.014,31.4961    487.014,31.4961 481.014,31.4961    "
+         id="polyline9016" />
+    </g>
+  </g>
+</svg>
